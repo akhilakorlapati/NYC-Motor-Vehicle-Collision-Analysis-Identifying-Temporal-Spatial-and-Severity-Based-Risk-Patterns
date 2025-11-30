@@ -57,7 +57,7 @@ This notebook demonstrates my ability to work with complex, real-world public da
 
 │
 ├── NYC_Project.ipynb
-├── README.md # Project documentation
+├── README.md
 
 
 _No datasets or images are stored in this repository.  
