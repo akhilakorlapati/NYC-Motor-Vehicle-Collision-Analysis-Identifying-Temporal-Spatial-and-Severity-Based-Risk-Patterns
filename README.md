@@ -52,7 +52,7 @@ This notebook demonstrates my ability to work with complex, real-world public da
 - Data-driven interpretation suited for investigative and regulatory work  
 
 ---
-```text
+
 ## 📁 Repository Structure
 
 │
